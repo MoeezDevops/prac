@@ -7629,7 +7629,7 @@ _.w=h
 _.x=i},
 a6Z:function a6Z(){},
 JK:function JK(a){this.a=a},
-auG(){var s=A.aB5("https://ability-steed-gladly.ngrok-free.dev",A.ax(["Content-Type","application/json"],t.N,t.z)),r=new A.It(A.c([B.Av],t.i6))
+auG(){var s=A.aB5("https://ability-steed-gladly.ngrok-free.dev",A.ax(["Content-Type","application/json","ngrok-skip-browser-warning","true"],t.N,t.z)),r=new A.It(A.c([B.Av],t.i6))
 r.P(r,B.Ge)
 r=new A.Y2($,r,$,new A.a0h(51200),!1)
 r.So$=s
